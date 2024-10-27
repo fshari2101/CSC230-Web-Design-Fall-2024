@@ -61,7 +61,11 @@ p {
   }
 /* Navigation Styles */
 
-
+nav a 
+{
+   font-family: 'Trebuchet MS', Helvetica, sans-serif;
+   padding: 10px 0;
+}
 
 
 /* Section Styles */
