@@ -103,3 +103,8 @@ dt
    font-weight: bold;
    color: hsla(0, 0%, 0%, 0.4);
 }
+dd 
+{
+   font-size: 1.3em;
+   margin: 0 0 10px 0;
+}
