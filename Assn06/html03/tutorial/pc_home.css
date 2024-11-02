@@ -57,10 +57,17 @@ section#leftColumn {
 
 /* Right Column Styles */
 section#rightColumn {
-   float: right;
+   float: left;
    width: 67%;
 }
-
+#rightColumn img {
+   display: block;
+   width: 100%;
+ }
+ 
+ #rightColumn nav.horizontalNavigation li {
+   width: 25%;
+ }
 
 
 
