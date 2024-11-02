@@ -14,8 +14,7 @@
 */
 
 /* Body Styles */
-body 
-{
+body {
    margin-left: auto;
    margin-right: auto;
    max-width: 960px;
@@ -26,8 +25,7 @@ body
 
 /* Body Header Styles */
 
-body header img 
-{
+body header img {
    display: block;
    width: 100%;
 }
@@ -36,7 +34,10 @@ body  header  nav.horizontalNavigation li {
  }
 
 /* Horizontal Navigation Styles */
-
+nav.horizontalNavigation li {
+   display: block;
+   float: left;
+}
 
 
 /* Left Column Styles */
