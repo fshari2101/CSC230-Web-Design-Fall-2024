@@ -34,6 +34,7 @@ body > header > nav.horizontalNavigation li {
  }
 
 /* Horizontal Navigation Styles */
+
 nav.horizontalNavigation li {
   display: block;
   float: left;
