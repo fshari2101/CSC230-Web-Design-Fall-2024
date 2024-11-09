@@ -91,6 +91,10 @@ aside {
 aside :nth-of-type(odd){
    justify-self: end;
 }
+aside {
+   float: left;
+   width: 20%;
+}
 /* Footer Styles */
 
 
