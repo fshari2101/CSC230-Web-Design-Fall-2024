@@ -56,7 +56,11 @@ aside {
 
 
 /* Horizontal Navigation List Styles */
-
+nav li {
+   display: block;
+   width: 12.5%;
+   float: left;
+}
 
 
 
