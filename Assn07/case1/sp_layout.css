@@ -27,7 +27,7 @@ body {
 img {
    display: block;
 }
-/* CSS Grid styles */
+
 body {
    display: grid;
    grid-template-columns: repeat(4, 1fr);
@@ -91,9 +91,14 @@ aside {
 aside :nth-of-type(odd){
    justify-self: end;
 }
-aside {
+aside img {
    float: left;
    width: 20%;
+}
+aside p {
+   float: left;
+   width: 75%;
+   margin-left: 5%;
 }
 /* Footer Styles */
 
