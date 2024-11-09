@@ -91,5 +91,7 @@ a.battleMarkers {
 .mapInfo {
    display: none;
 }
-
+a.battleMarkers:hover + .mapInfo {
+   display: block;
+}
 
