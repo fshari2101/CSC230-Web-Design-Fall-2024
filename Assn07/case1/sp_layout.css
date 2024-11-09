@@ -69,7 +69,10 @@ section img {
    width:  50%;
    margin: auto;
 }
-
+section p {
+   width: 70%;
+   margin: auto;
+}
 
 
 
