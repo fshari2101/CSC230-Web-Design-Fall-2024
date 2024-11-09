@@ -21,13 +21,16 @@ body {
    width: 95%;
    max-width: 960px;
    min-width: 640px;
-   margin: auto;
-   min-height: 100%;
+   margin-top: 0;
+   margin-bottom: 0%;
+   margin-left: auto;
+   margin-right: auto;
+   min-height: 100vh;
 }
 img {
    display: block;
 }
-
+/* CSS Grid Styles*/
 body {
    display: grid;
    grid-template-columns: repeat(4, 1fr);
@@ -65,13 +68,20 @@ nav li {
 
 
 /* Topics Styles */
+/* Section Styles*/
 section img {
    width:  50%;
-   margin: auto;
+   margin-top: 0;
+   margin-bottom: 0%;
+   margin-left: auto;
+   margin-right: auto;
 }
 section p {
    width: 70%;
-   margin: auto;
+   margin-top: 0;
+   margin-bottom: 0%;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 
