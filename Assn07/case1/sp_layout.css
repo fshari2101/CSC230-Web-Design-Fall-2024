@@ -65,7 +65,10 @@ nav li {
 
 
 /* Topics Styles */
-
+section img {
+   width:  50%;
+   margin: auto;
+}
 
 
 
