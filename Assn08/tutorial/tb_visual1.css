@@ -31,7 +31,9 @@ figure figcaption {
    text-align: center;
 }
 /* HTML Styles */
-
+html {
+   background-image: url(tb_back1.png);
+}
 
 
 
