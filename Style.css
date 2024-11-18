@@ -1,3 +1,13 @@
+@charset "utf-8";
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Author: Fardowsa Sharif
+   Date:   10/15/2024
+   
+   Filename: Style.css
+
+*/
+
 /* General Styles */ 
 body { 
 background-color: beige; 
@@ -43,7 +53,7 @@ article {
     padding: 20px; 
     margin-bottom: 20px; 
     border-radius: 5px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0.1); 
+    box-shadow: 0 4px 8px rgb(0, 0, 0.1); 
 } 
 article img { 
     max-width: 100%; 
