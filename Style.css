@@ -40,22 +40,36 @@ nav {
     color: white; 
     text-decoration: none; 
 } nav ol li a:hover { 
-    text-decoration: underline; 
-} /* Section Styles */ 
+    text-decoration: underline ; 
+} 
+/* Section Styles */ 
 section { 
     padding: 20px; 
 } section h2 { 
     color: darkblue; 
 } 
+html {
+    border-width: 25px;
+    height: 100%;
+}
+body {
+    display: block;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
+
 /* Article Styles */ 
 article { 
     background-color: white; 
     padding: 20px; 
     margin-bottom: 20px; 
     border-radius: 5px; 
-    box-shadow: 0 4px 8px rgb(0, 0, 0.1); 
+    box-shadow: 0 4px 8px rgb(20, 30, 25); 
 } 
 article img { 
+    border-radius: 29px;
     max-width: 100%; 
     height: auto; 
     display: block; 
@@ -70,11 +84,11 @@ footer {
     text-align: center; 
     padding: 10px 0; 
 } 
-    
+
 footer a { 
     color: gold; 
-    text-decoration: none; 
+    text-transform: initial;
 }
 footer a:hover { 
-    text-decoration: underline; 
+    text-align: right; 
 }
