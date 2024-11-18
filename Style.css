@@ -1,0 +1,70 @@
+/* General Styles */ 
+body { 
+background-color: beige; 
+font-family: 'Arial', sans-serif; 
+color: black; 
+margin: 0; 
+padding: 0; 
+line-height: 1.6; 
+} 
+/* Header Styles */ 
+header { 
+    background-color: darkblue; 
+    color: white; 
+    padding: 20px 0; 
+    text-align: center; 
+} header h1 { 
+    margin: 0; 
+} 
+/* Navigation Styles */ 
+nav { 
+    background-color: black; 
+    color: white; 
+    padding: 10px; 
+} nav ol { 
+    list-style: none; 
+    padding: 0; 
+} nav ol li { 
+    margin-bottom: 10px; 
+} nav ol li a { 
+    color: white; 
+    text-decoration: none; 
+} nav ol li a:hover { 
+    text-decoration: underline; 
+} /* Section Styles */ 
+section { 
+    padding: 20px; 
+} section h2 { 
+    color: darkblue; 
+} 
+/* Article Styles */ 
+article { 
+    background-color: white; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0.1); 
+} 
+article img { 
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto 20px; 
+} article p { 
+    margin: 10px 0; 
+} 
+/* Footer Styles */ 
+footer { 
+    background-color: chocolate; 
+    color: white; 
+    text-align: center; 
+    padding: 10px 0; 
+} 
+    
+footer a { 
+    color: gold; 
+    text-decoration: none; 
+}
+footer a:hover { 
+    text-decoration: underline; 
+}
