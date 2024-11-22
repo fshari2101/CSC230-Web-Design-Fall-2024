@@ -196,4 +196,7 @@ a.submenuTitle:hover+ul.submenu, ul.submenu:hover{
       content: "";
       display: table;
    }
+   nav.horizontal a.submenuTitle {
+      display: none;
+   }
 }
