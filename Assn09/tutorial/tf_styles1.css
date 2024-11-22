@@ -184,5 +184,11 @@ a.submenuTitle:hover+ul.submenu, ul.submenu:hover{
    Desktop Styles, 769px and greater
 */
 @media only screen and (min-width: 769px) {
-   
+   ul.submenu {
+      background: transparent;
+      box-shadow: none;
+      display: block;
+      position: relative;
+      width: 100%;
+   }
 }
