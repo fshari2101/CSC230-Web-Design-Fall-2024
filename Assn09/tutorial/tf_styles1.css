@@ -199,4 +199,9 @@ a.submenuTitle:hover+ul.submenu, ul.submenu:hover{
    nav.horizontal a.submenuTitle {
       display: none;
    }
+   article {
+      float: left;
+      margin-right: 5%;
+      width: 55%;
+   }
 }
