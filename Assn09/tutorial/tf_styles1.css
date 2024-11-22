@@ -173,6 +173,9 @@ a.submenuTitle:hover+ul.submenu, ul.submenu:hover{
       float: left;
       width: 20%;
    }
+   ul.submenu {
+      width: 200%;
+   }
 }
 /*
    Desktop Styles, 769px and greater
