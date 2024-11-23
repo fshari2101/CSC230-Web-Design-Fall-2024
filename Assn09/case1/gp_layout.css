@@ -47,6 +47,9 @@ article {
    nav.horizontal { 
       order: 99; 
    }
+   body > footer { 
+      order: 100; 
+   }
 }
 
 
