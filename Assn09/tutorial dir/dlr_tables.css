@@ -30,7 +30,10 @@ table.schedule th, table.schedule td {
 
 
 /* Table Caption Styles */
-
+table.schedule Caption {
+   caption-side: bottom;
+   text-align: right;
+}
 
 
 /* Row Group Styles */
