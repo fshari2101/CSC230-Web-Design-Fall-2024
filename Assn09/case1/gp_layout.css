@@ -68,4 +68,16 @@ article {
    nav.horizontal ul li { 
       flex: 1 1 auto; 
    }
+   .size1 { 
+      width: 100%; 
+   } 
+   .size2 { 
+      width: 60%; 
+   } 
+   .size3 { 
+      width: 40%; 
+   } 
+   .size4 { 
+      width: 30%; 
+   }
 }
