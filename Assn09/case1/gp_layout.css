@@ -41,7 +41,7 @@ article {
    ============================================
 */
 @media screen and (max-width: 480px){
-   panel { 
+   .panel { 
       width: 100%; 
    }
    nav.horizontal { 
