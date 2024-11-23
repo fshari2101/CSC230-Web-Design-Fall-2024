@@ -40,7 +40,9 @@ article {
 	Mobile Devices: 0 - 480 pixels
    ============================================
 */
-
+@media screen and (max-width: 480px){
+   
+}
 
 
 
