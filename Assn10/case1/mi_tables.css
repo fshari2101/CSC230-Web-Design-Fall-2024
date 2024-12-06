@@ -23,7 +23,11 @@ table {
    line-height: 1.4em;
    padding: 8px;
  }
-
+ th {
+   background-color: black;
+   color: rgb(130, 210, 255);
+   font-weight: normal;
+ }
 
 /* Column Styles */
 
