@@ -28,7 +28,12 @@ table {
    color: rgb(130, 210, 255);
    font-weight: normal;
  }
-
+ td {
+   color: white;
+   font-size: 0.9em;
+   vertical-align: top;
+ }
+ 
 /* Column Styles */
 
 
