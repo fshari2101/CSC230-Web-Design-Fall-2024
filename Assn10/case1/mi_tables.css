@@ -41,7 +41,9 @@ col#firstCol {
  col.dataCols {
    width: 19%;
  }
-
+ thead, thead tr {
+   height: 60px;
+ }
 
 /* Table Header Styles */
 
