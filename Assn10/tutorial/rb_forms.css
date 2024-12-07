@@ -4,16 +4,22 @@
    Tutorial Case
 
    Survey Forms Style Sheet
-   Author: 
-   Date:   
+   Author: Fardowsa Sharif
+   Date:   12/6/2024
 
    Filename:         rb_forms.css
 
 */
 
 /* Form Layout Styles */
-
-
+div.formRow {
+   display: flex;
+   flex-flow: row-wrap;
+   margin: 7px 0px;
+}
+div.formRow > * {
+   flex: 1 1 150px;
+}
 
 /* Legend Styles */
 
