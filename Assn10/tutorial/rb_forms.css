@@ -33,7 +33,11 @@ form#survey > fieldset{
    margin: 10px;
 }
 /* Legend Styles */
-
+legend {
+   background-color: rgb(179, 20, 25);
+   color: white;
+   padding: 5px;
+}
 
 
 /* Text Area Styles */
