@@ -1,0 +1,109 @@
+@charset "utf -8";
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Author: Fardowsa Sharif
+   Date:   12/9/2024
+   
+   Filename: finalExam.css
+
+*/
+/* General body styling */
+body {
+    font-family: Verdana, Tahoma, Helvetica, sans-serif;
+    color: rgb(0, 0, 139);
+    font: 16px;
+    width: 85%;
+    margin-left: auto;
+    background-color: rgb(173, 216, 230);
+    display: flex;
+    flex-direction: column;
+}
+header {
+    background-color: rgb(211, 211, 211); 
+    font-family: Arial, sans-serif;
+    color: rgb(105, 105, 105);
+    position: relative;
+}
+header img {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}
+header h1 {
+    margin: 35px 0 0 0;
+    font-size: 36pt;
+    padding: 15px 0 0 0;
+}
+ h2 {
+   background-color: yellow;
+   text-align: center;
+}
+header h3 {
+    font-size: 24pt;
+    margin: 0px;
+    padding: 0px 0 0 0; 
+}
+h1 {
+   font-family: Arial;
+   font-size: 22pt;
+   text-align: left;
+   letter-spacing: 2px;
+   margin: 0px;
+   padding: 15px 0 0 15px;
+   background-color: rgb(0, 128, 128);
+}
+h2 {
+    font-family:Arial; 
+    font-size: 16px;
+    text-align: left;
+    color: rgb(211, 211, 211)
+}
+p {
+    margin: 15px;
+    padding: 15px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(222, 187, 191);
+}
+table {
+    border-collapse: collapse;
+    padding: 5px 2px;
+    width: 90%;
+    margin-left: 30px;
+}
+
+table th {
+    padding-left: 15px;
+    padding-top: 2px;
+    background-color: gray;
+}
+table td {
+    padding-right: 15px;
+    padding-bottom: 2px;
+
+}
+nav {
+    background-color: rgb(255, 255, 254);
+    color: rgb(85, 107, 47);
+    text-align: center;
+    width: 27%;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+section {
+    background-color: rgb(210, 228, 128);
+    color: rgb(139, 0, 0);
+    float: right;
+    width: 75%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+footer {
+    text-align: center;
+    background-color: rgb(245, 255, 250);
+    color: (0, 128, 128)
+}
